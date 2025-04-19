@@ -1,3 +1,11 @@
+# 📁 Project Moved!
+
+This project is now part of my [Data Analytics Portfolio](https://github.com/adamxngy/data-analytics-portfolio).
+
+Check it out there! 🚀
+
+This version is archived and no longer updated.
+
 # Hospital Management System
 
 This is a porject created in SQL about a Hospital Management System.
